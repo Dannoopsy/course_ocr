@@ -1,2 +1,4 @@
 *.pyc
 *.egg-info/
+*RUN.json
+*ipynb_checkpoints
